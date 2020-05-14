@@ -1,0 +1,45 @@
+/*!
+ * Start Bootstrap - Busines Frontpage (https://startbootstrap.com/template-overviews/business-frontpage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+
+body {
+    padding-top: 56px;
+}
+
+#header_marbo_main {
+    background-color: green!important;
+    border-width: 5px;
+    border-style: double;
+}
+
+#navbar {
+    background-color: green!important;
+}
+
+#applications {
+    background-color: #72ce72;
+}
+
+#release-agents {
+    margin-top: 20px;
+}
+
+table {
+    border-spacing: 5px;
+    margin-bottom: 50px;
+}
+
+#green-box {
+    font-family: "Verdana, Arial, Helvetica, sans-serif";
+    font-size: 2;
+}
+
+.verdepiccolobold {
+    color: #FFFFFF;
+}
+
+h4 {
+    text-align: center;
+}
